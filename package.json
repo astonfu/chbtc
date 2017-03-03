@@ -1,0 +1,31 @@
+{
+  "name": "chbtc",
+  "version": "0.0.0",
+  "description": "Node.js API wrapper to chbtc bitcoin exchange",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "0.19.0",
+    "crypto": "~0.0.3",
+    "request": "~2.67.0",
+    "underscore": "~1.8.3",
+    "verror": "~1.6.0"
+  },
+  "keywords": [
+    "chbtc",
+    "BTC China",
+    "api",
+    "exchange",
+    "bitcoin",
+    "ethereum"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astonfu/chbtc.git"
+  },
+  "author": "Aston Fu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astonfu/chbtc/issues"
+  },
+  "homepage": "https://github.com/astonfu/chbtc#readme"
+}
